@@ -10,7 +10,7 @@
 
 - [cite_start]🌱 I’m currently developing an **Advanced Self-Checkout System** featuring object identification and an RFID-based payment system[cite: 18, 20, 70, 72].
 - [cite_start]🔭 My core interests include Embedded Systems, IoT, VLSI, and Robotics[cite: 84].
-- [cite_start]📫 You can reach me at: **muskansingh0298@gmail.com** [cite: 3] [cite_start]or **itsmuskansingh22@gmail.com**[cite: 46].
+- [cite_start]📫 You can reach me at: **muskansingh0298@gmail.com** [cite: 3]
 
 ---
 
